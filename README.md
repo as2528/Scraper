@@ -1,6 +1,6 @@
 # Scraper
 
-A small, **no-nonsense** Python utility for bulk-downloading protein **FASTA** sequences by **domain/family** across multiple databases with a common interface. It’s built for reproducible batch pulls without hand-holding — you get progress bars, rate-limit backoff, and explicit failures instead of silent “success.”
+A small, **no-nonsense** Python utility for bulk-downloading protein **FASTA** sequences by **domain/family** across multiple databases with a common interface. It’s built for reproducible batch pulls without hand-holding. You get progress bars, rate-limit backoff, and explicit failures instead of silent “success.”
 
 ---
 
